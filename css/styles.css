@@ -103,9 +103,9 @@ footer {
     flex-direction: column;
     align-items: center;
     position: absolute;
-    margin-top: 6.2%;
+    margin-top: 7%;
     width: 100%;
-    height: 63.4%;
+    height: 66%;
 }
 
 .foto-wallpaper{
@@ -202,5 +202,8 @@ footer {
 
     .menu-items li {
         font-size: 18px;
+    }
+    .div-wpp{
+        height: 66%;
     }
 }
