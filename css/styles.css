@@ -80,10 +80,15 @@ footer {
     width:250px;
     background: black;
     position: relative; 
+    align-items: center;
 }
 
 .profile-avatar img {
-    width: 250px;
+    height: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: -80px 1px;
+    /* width: 250px; */
 }   
 
 .nome{
@@ -103,7 +108,7 @@ footer {
     height: 63.4%;
 }
 
-.coder{
+.foto-wallpaper{
     opacity: 0.2;
     width: 100%;
     overflow: hidden;
