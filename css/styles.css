@@ -121,13 +121,13 @@ footer {
     font-size: 1rem;
 }
 
-#hobbie {
+#tecnologia {
     width: 100%;
     max-width: 960px;
     margin: 0 auto;
 }
 
-.hobbie-title {
+.tecnologia-title {
     font-size: 2rem;
     text-transform: uppercase;
     text-align: center;
@@ -135,13 +135,13 @@ footer {
     margin: 60px 0 10px 0;
 }
 
-.hobbie-container {
+.tecnologia-container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.hobbie-item {
+.tecnologia-item {
     width: calc(100% - 40px);
     max-width: 420px;
     border-radius: 10px;
@@ -177,7 +177,7 @@ footer {
         font-size: 24px;
     }
 
-    .hobbie-item {
+    .tecnologia-item {
         width: 280px;
     }
 
