@@ -95,7 +95,7 @@ footer {
     max-width: 960px;
     text-align: center;
     text-shadow: 0.1em 0.1em 0.05em black;
-    position: relative;
+    /* position: relative; */
 }
 
 .div-wpp{
